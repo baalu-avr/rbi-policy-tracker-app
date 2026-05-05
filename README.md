@@ -98,4 +98,4 @@ Official RBI monetary policy rates sourced from the **[RBI Database of Indian Ec
 
 ## 👤 Author
 
-Built by **Balaji** — connect on [LinkedIn](https://www.linkedin.com/in/balaji-k-58a3932ab) | [GitHub](https://github.com/baalu-avr)
+Built by **Balaji K** — connect on [LinkedIn](https://www.linkedin.com/in/balaji-k-58a3932ab) | [GitHub](https://github.com/baalu-avr)

@@ -27,7 +27,7 @@ A Python tool that loads, cleans, and visualizes **90 years of Reserve Bank of I
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/rbi-policy-tracker.git
+git clone https://github.com/baalu-avr/rbi-policy-tracker-app.git
 cd rbi-policy-tracker
 ```
 
@@ -98,4 +98,4 @@ Official RBI monetary policy rates sourced from the **[RBI Database of Indian Ec
 
 ## 👤 Author
 
-Built by **Balu** — connect on [LinkedIn](https://www.linkedin.com/in/balaji-k-58a3932ab?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/baalu-avr/baalu-avr.github.io)
+Built by **Balaji** — connect on [LinkedIn](https://www.linkedin.com/in/balaji-k-58a3932ab) | [GitHub](https://github.com/baalu-avr)

@@ -28,7 +28,7 @@ A Python tool that loads, cleans, and visualizes **90 years of Reserve Bank of I
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/baalu-avr/rbi-policy-tracker-app.git
-cd rbi-policy-tracker
+cd rbi-policy-tracker-app
 ```
 
 ### 2. Create virtual environment
